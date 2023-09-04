@@ -23,6 +23,9 @@ Welcome to Skill-Sync, the innovative platform that makes skill acquisition an e
 |  Connect and Learn Together   | Beyond mentorship, Skill-Sync introduces a unique approach to skill acquisition. Our platform facilitates connections with fellow users who possess the skills you aspire to acquire. Through a carefully designed matchmaking process, you can find your skill counterpart. Imagine individual A aiming to master Skill B and individual B eager to excel in Skill A – a perfect match! When both parties agree, collaborative sessions can be scheduled, fostering a dynamic environment for mutual growth |
 |  Building Lasting Bonds       | Skill-Sync goes beyond the transactional nature of traditional learning platforms. Once you've engaged in collaborative sessions, the choice to deepen the connection is yours. Forge new friendships with like-minded learners who share your passion for skill development. After all, learning is often more impactful and enjoyable when shared. |
 
+|  Mockups             | 
+| -------                         |
+| <img src="https://github.com/Skill-Sync/SkillSync-Backend/blob/master/.github/res/imgs/mockup%20splash%20and%20auth.png" width="1000" />   | 
 
 ## Technologies Used
 - 
