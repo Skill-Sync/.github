@@ -37,7 +37,12 @@ Welcome to Skill-Sync, the innovative platform that makes skill acquisition an e
 ## Future Updates
 - 
 - 
-  
+
+
+## Acknowledgement
+This project forms a part of the IEEE_Victoris_20 competition, and we extend our gratitude to the IEEE Mansoura Student Branch for their fantastic work in organizing this competition! 
+
+
 ## Team-Members
 Name          |  Role
 :-------------------------:|:-------------------------:
@@ -49,11 +54,15 @@ Name          |  Role
 [AlMhmdy    ](https://github.com/MoAnter953)    | Ui/UX
 [Anter    ](https://github.com/MoAnter953)    | Ui/UX
 
-## License
-This project is licensed under ........... See the LICENSE file for more information.
+## Contributing
+We warmly welcome contributions to this project. If you wish to contribute, kindly initiate an issue to discuss your ideas before proceeding with a pull request.
 
-## Assistance
-If you require any assistance or have any questions or suggestions, please don't hesitate to contact me via [Email](mailto:skill.sync.contact1@gmail.com). I would be more than happy to help you in any. Thank you for your time and consideration! 😁
+## Support
+If you need assistance, have questions, or want to share suggestions, please do not hesitate to reach out to me via [Email](mailto:skill.sync.contact1@gmail.com). I'm here to assist you with pleasure. Thank you for your time and consideration! 😁
+
+## License
+This project is subject to a specific license (details in the LICENSE file). For further information, kindly refer to the LICENSE file.
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"  width="100%"/>
