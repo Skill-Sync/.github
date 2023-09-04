@@ -16,10 +16,28 @@ Welcome to Skill-Sync, the innovative platform that makes skill acquisition an e
 
 🌐 Skill-Sync's mission is to unite individuals based on their learning aspirations. It's not just about acquiring skills; it's about fostering connections and enriching your journey. Join us on this exciting venture, where learning knows no bounds and friendships are waiting to be kindled. Discover the joy of mastering new skills while embracing the camaraderie of fellow learners. Your path to skill excellence and meaningful connections starts with Skill-Sync! 🌈
 
+## Features
+| Features                          | Description                                                                                                 |
+|----------------------------------|------------------------------------------------------------------------------------------------------|
+|  Expert Mentorship  |  We understand that learning directly from experts can be the most efficient way to enhance your skills. With Skill-Sync, you can dive into personalized, pre-scheduled live sessions led by verified mentors. This one-on-one interaction allows you to receive guidance tailored to your learning needs. Our mentors are here to share their wisdom and knowledge, guiding you toward mastery.         |
+|  Connect and Learn Together   | Beyond mentorship, Skill-Sync introduces a unique approach to skill acquisition. Our platform facilitates connections with fellow users who possess the skills you aspire to acquire. Through a carefully designed matchmaking process, you can find your skill counterpart. Imagine individual A aiming to master Skill B and individual B eager to excel in Skill A – a perfect match! When both parties agree, collaborative sessions can be scheduled, fostering a dynamic environment for mutual growth |
+|  Building Lasting Bonds       | Skill-Sync goes beyond the transactional nature of traditional learning platforms. Once you've engaged in collaborative sessions, the choice to deepen the connection is yours. Forge new friendships with like-minded learners who share your passion for skill development. After all, learning is often more impactful and enjoyable when shared. |
+
+
+## Technologies Used
+- 
+- 
+- 
+- 
+- 
+- 
+
+  
 
 ## Future Updates
 - 
-
+- 
+  
 ## Team-Members
 Name          |  Role
 :-------------------------:|:-------------------------:
@@ -33,6 +51,9 @@ Name          |  Role
 
 ## License
 This project is licensed under ........... See the LICENSE file for more information.
+
+## Assistance
+If you require any assistance or have any questions or suggestions, please don't hesitate to contact me via [Email](mailto:skill.sync.contact1@gmail.com). I would be more than happy to help you in any. Thank you for your time and consideration! 😁
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"  width="100%"/>
