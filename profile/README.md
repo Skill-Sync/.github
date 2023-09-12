@@ -45,15 +45,17 @@ This project forms a part of the IEEE_Victoris_20 competition, and we extend our
 
 
 ## Team-Members
-Name          |  Role
-:-------------------------:|:-------------------------:
-[Mohammed Medhat    ](https://github.com/MOHAMMED1MEDHAT)    | BackEnd
-[Mohamed Abo El-Seoud ](https://github.com/MAES-Pyramids)     | BackEnd
-[Mohamed Khadra    ](https://github.com/mokhadra123)    | FrontEnd
-[Mohannad El-Sayeh    ](https://github.com/mSaayeh)    | Android
-[Muhammed Salman    ](https://github.com/muhammed9865)    | Android
-[AlMhmdy    ](https://github.com/MoAnter953)    | Ui/UX
-[Anter    ](https://github.com/MoAnter953)    | Ui/UX
+| Name                   | Role      | GitHub Profile                                | LinkedIn Profile                          |
+|------------------------|-----------|-----------------------------------------------|-------------------------------------------|
+| Mohammed Medhat        | BackEnd   | [GitHub Profile](https://github.com/MOHAMMED1MEDHAT) | [LinkedIn Profile](https://www.linkedin.com/in/mohammed-medhat) |
+| Mohamed Abo El-Seoud   | BackEnd   | [GitHub Profile](https://github.com/MAES-Pyramids) | [LinkedIn Profile](https://www.linkedin.com/in/mohamed-abo-el-seoud) |
+| Mohamed Khadra         | FrontEnd  | [GitHub Profile](https://github.com/mokhadra123)  | [LinkedIn Profile](https://www.linkedin.com/in/mohamed-khadra) |
+| Mohannad El-Sayeh      | Android   | [GitHub Profile](https://github.com/mSaayeh)     | [LinkedIn Profile](https://www.linkedin.com/in/mohannad-el-sayeh) |
+| Muhammed Salman        | Android   | [GitHub Profile](https://github.com/muhammed9865)  | [LinkedIn Profile](https://www.linkedin.com/in/muhammed-salman) |
+| AlMhmdy                | Ui/UX     | [GitHub Profile](https://github.com/MoAnter953)   | [LinkedIn Profile](https://www.linkedin.com/in/almhmdy) |
+| Anter                  | Ui/UX     | [GitHub Profile](https://github.com/MoAnter953)   | [LinkedIn Profile](https://www.linkedin.com/in/anter) |
+
+
 
 ## Contributing
 We warmly welcome contributions to this project. If you wish to contribute, kindly initiate an issue to discuss your ideas before proceeding with a pull request.
