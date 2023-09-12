@@ -48,7 +48,7 @@ This project forms a part of the IEEE_Victoris_20 competition, and we extend our
 | Name                   | Role      | GitHub Profile                                | LinkedIn Profile                          |
 |------------------------|-----------|-----------------------------------------------|-------------------------------------------|
 | Mohammed Medhat        | BackEnd   | [GitHub Profile](https://github.com/MOHAMMED1MEDHAT) | [LinkedIn Profile](https://www.linkedin.com/in/mohammed-medhat) |
-| Mohamed Abo El-Seoud   | BackEnd   | [GitHub Profile](https://github.com/MAES-Pyramids) | [LinkedIn Profile](https://www.linkedin.com/in/mohamed-abo-el-seoud) |
+| Mohamed Abo El-Seoud   | BackEnd   | [GitHub Profile](https://github.com/MAES-Pyramids) | www.linkedin.com/in/mohamed-abo-el-seoud |
 | Mohamed Khadra         | FrontEnd  | [GitHub Profile](https://github.com/mokhadra123)  | [LinkedIn Profile](https://www.linkedin.com/in/mohamed-khadra) |
 | Mohannad El-Sayeh      | Android   | [GitHub Profile](https://github.com/mSaayeh)     | [LinkedIn Profile](https://www.linkedin.com/in/mohannad-el-sayeh) |
 | Muhammed Salman        | Android   | [GitHub Profile](https://github.com/muhammed9865)  | [LinkedIn Profile](https://www.linkedin.com/in/muhammed-salman) |
