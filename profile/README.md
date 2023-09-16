@@ -31,14 +31,22 @@ Welcome to Skill-Sync, the innovative platform that makes skill acquisition an e
 
 
 ## Technologies Used
-- 
-- 
-- 
-- 
+- Frontend: We utilized modern web development technologies such as React.js for the frontend, ensuring a responsive and user-friendly interface.
+
+- Mobile (Android): For mobile development, we employed Kotlin and Android Studio, ensuring a native and optimized user experience on Android devices.
+
+- Backend: The backend was developed using Node.js and Express.js, providing the scalability and performance required to handle Skill-Sync's needs. We have implemented so many techniques using packages like socket.io, pm2 …etc.  (For more information please check our back-End ReadMe File From Here)
+
+- Database: MongoDB was our database of choice, offering flexibility and ease of integration with our Node.js backend and it was deployed on service called Atlas. And we also used Redis cache memory for caching and fast response which was needed in our matching system.
+
+- Hosting: Skill-Sync is currently hosted on a serverless application called Render for development and presentation purposes. However, it was designed to be deployed on AWS EC2 Instances to provide the reliability and scalability required for a production-ready platform.
+
   
 
 ## Future Updates
-- 
+1.  **Loyalty System:** To reward users for their engagement and commitment, we plan to introduce a Loyalty System in the future. Users will be able to purchase points for a fixed price, which can then be used as a form of payment within the platform to access premium features or pay for mentorship sessions. We will also give users points as gifts as they achieve milestones or participate actively, creating a sense of loyalty and appreciation.
+
+2. **Badges and Level Assessment System:** To further motivate and engage our users, we intend to implement a Badges and Level Assessment System. This system will evaluate the skill level of each user based on their achievements and progress. Users will earn badges as they reach specific skill milestones, and their skill level will be continuously assessed. Matching users with similar skill levels will improve the learning experience, and users will be incentivized to continue learning. We will also offer rewards and gifts to users as they advance through different skill levels.
 
 ## Acknowledgement
 This project forms a part of the IEEE_Victoris_20 competition, and we extend our gratitude to the IEEE Mansoura Student Branch for their fantastic work in organizing this competition! 
